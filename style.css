@@ -8,3 +8,9 @@ body {
     padding-bottom: 10px;
     overflow: hidden;
   }
+
+  .container {
+    margin: 0 auto;
+    height: 190px;
+    width: 520px;
+  }
